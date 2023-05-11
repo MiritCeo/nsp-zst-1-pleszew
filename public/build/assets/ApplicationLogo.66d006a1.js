@@ -1,0 +1,1 @@
+import{a as o}from"./PrimaryButton.27dfc493.js";import{o as e,e as c}from"./app.b53879ed.js";const r={},t={src:"/images/mirit-logo.jpg"};function s(n,i){return e(),c("img",t)}const m=o(r,[["render",s]]);export{m as A};

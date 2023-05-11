@@ -1,0 +1,1 @@
+import{s as o}from"./button.esm.3c05891c.js";import{o as a,c,a as s,u as e,h as n}from"./app.b53879ed.js";const r=n(" Back "),k={__name:"BackButton",setup(_){function t(){window.history.back()}return(i,p)=>(a(),c(e(o),{onClick:t,label:"Info",class:"p-button-info"},{default:s(()=>[r]),_:1}))}};export{k as _};
